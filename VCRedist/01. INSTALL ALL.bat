@@ -64,8 +64,8 @@ start /wait vcredist.2013.EOL.12.0.40664.0.x86 /passive /norestart
 start /wait vcredist.2013.EOL.12.0.40664.0.x64 /passive /norestart
 
 echo 2015, 2017, 2019 ^& 2022...
-start /wait vcredist.2015.2017.2019.2022-14.44.35208.0.x86 /passive /norestart
-start /wait vcredist.2015.2017.2019.2022-14.44.35208.0.x64 /passive /norestart
+start /wait vcredist.2015.2017.2019.2022-14.44.35211.0.x86 /passive /norestart
+start /wait vcredist.2015.2017.2019.2022-14.44.35211.0.x64 /passive /norestart
 
 goto END
 
