@@ -25,7 +25,7 @@ This All-in-One (AIO) package streamlines the installation process by bundling a
 ## Getting Started
 
 1.  Navigate to the [**Releases**](https://github.com/xyzsteven/VCRedistAIO/releases) page of this repository.
-2.  Download the latest release archive (`VCRedistAIO2025.10.13.zip`).
+2.  Download the latest release archive (`VCRedistAIO2025.06.10.zip`).
 3.  Extract the contents of the `.zip` file to a folder on your computer.
 4.  Right-click on the `01. INSTALL ALL.bat` script and select **"Run as administrator"**.
 
