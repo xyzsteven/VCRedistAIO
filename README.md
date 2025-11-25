@@ -2,7 +2,7 @@
 
 A comprehensive, automated installer for all essential Microsoft Visual C++ Runtimes. This package is designed to simplify the setup of a new Windows environment, ensuring that all necessary runtimes are installed to prevent errors when running a wide variety of applications and games.
 
-![Version](https://img.shields.io/badge/Version-2025.10.13-blue.svg)
+![Version](https://img.shields.io/badge/Version-2025.06.10-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D6.svg)
 ![Architecture](https://img.shields.io/badge/Architecture-x86%20%7C%20x64-lightgrey.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
@@ -25,7 +25,7 @@ This All-in-One (AIO) package streamlines the installation process by bundling a
 ## Getting Started
 
 1.  Navigate to the [**Releases**](https://github.com/xyzsteven/VCRedistAIO/releases) page of this repository.
-2.  Download the latest release archive (`VCRedistAIO2025.10.13.zip`).
+2.  Download the latest release archive (`VCRedistAIO2025.06.10.zip`).
 3.  Extract the contents of the `.zip` file to a folder on your computer.
 4.  Right-click on the `01. INSTALL ALL.bat` script and select **"Run as administrator"**.
 
