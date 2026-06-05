@@ -40,7 +40,7 @@ echo 2015, 2017, 2019 ^& 2022...
 start /wait vcredist.2015.2017.2019.2022-14.44.35211.0.x86 /passive /norestart
 
 echo v14...
-start /wait vcredist.v14-14.50.35719.0.x86 /passive /norestart
+start /wait vcredist.v14-14.50.36231.0.x86 /passive /norestart
 
 goto END
 
@@ -71,8 +71,8 @@ start /wait vcredist.2015.2017.2019.2022-14.44.35211.0.x86 /passive /norestart
 start /wait vcredist.2015.2017.2019.2022-14.44.35211.0.x64 /passive /norestart
 
 echo v14...
-start /wait vcredist.v14-14.50.35719.0.x86 /passive /norestart
-start /wait vcredist.v14-14.50.35719.0.x64 /passive /norestart
+start /wait vcredist.v14-14.50.36231.0.x86 /passive /norestart
+start /wait vcredist.v14-14.50.36231.0.x64 /passive /norestart
 
 goto END
 
